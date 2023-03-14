@@ -1,0 +1,2 @@
+# .gitattributs
+Termux scripy
